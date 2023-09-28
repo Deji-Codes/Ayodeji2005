@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ayodeji2005
+- 👋 Hi, I’m @Dev-Deji
 - 👀 I’m interested in Web Developing Skills
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m an intermidiate Front-End Developer
 - 💞️ I’m looking to collaborate on a project where students can take a test and see their final score
 - 📫 How to reach me EMAIL me at ayodejiakinwunmi25@gmail.com
 
